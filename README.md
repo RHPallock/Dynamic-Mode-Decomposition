@@ -1,4 +1,4 @@
-In this repo, Dynamic mode decomposition techniques has been applied on snapshots found from simulation Adjoint PDE of KS equations.
+In this repo, Dynamic mode decomposition techniques has been applied on snapshots found from simulation Adjoint PDE of KS equations. The python code uses dedalus module.
 
 DMD_KS:   
 
